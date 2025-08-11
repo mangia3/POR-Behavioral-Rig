@@ -24,6 +24,10 @@ This system automates palp opening response (POR) experiments in locusts by cont
    - `Rig_program.ino` (Arduino firmware)
    - `rig_motor_functions.h` (Motor library)
 
+![Pinout Diagram](https://drive.google.com/file/d/1OPlse6kRpduqb8w6OBmW3Q2100KdvlVt/view?usp=sharing)
+*Fig 1. System pinout and connections diagram*
+
+
 ## Installation
 1. Flash Arduino Teensy with `Rig_program.ino` and `rig_motor_functions.h` in the same sketch
 2. Install Python dependencies:
