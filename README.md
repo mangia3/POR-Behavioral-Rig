@@ -1,6 +1,4 @@
 # POR-Behavioral-Rig
-# POR Behavioral Rig
-
 ## Overview
 This system automates physiological response experiments in locusts by controlling:
 - Dual-camera video recording
