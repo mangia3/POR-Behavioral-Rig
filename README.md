@@ -1,5 +1,5 @@
 # POR-Behavioral-Rig
-The main purpose of the POR Behavioral Rig is to automate the experimentation process for studying physiological responses (such as palp opening response or POR) in locusts due to various odors. This code controls a compact, centralized physical rig to carry out trials. Ultimately this works toward making research processes more efficient and aiding in quicker, more accurate experimental trial conduction.
+**Purpose**: The main purpose of the POR Behavioral Rig is to automate the experimentation process for studying physiological responses (such as palp opening response or POR) in locusts due to various odors. This code controls a compact, centralized physical rig to carry out trials. Ultimately this works toward making research processes more efficient and aiding in quicker, more accurate experimental trial conduction.
 
 ## Overview
 This system automates palp opening response (POR) experiments in locusts by controlling:
