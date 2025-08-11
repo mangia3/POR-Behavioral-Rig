@@ -25,7 +25,7 @@ This system automates palp opening response (POR) experiments in locusts by cont
    - `rig_motor_functions.h` (Motor library)
 
 [![Pinout Diagram](https://drive.google.com/file/d/1OPlse6kRpduqb8w6OBmW3Q2100KdvlVt/view?usp=sharing)](https://drive.google.com/file/d/1OPlse6kRpduqb8w6OBmW3Q2100KdvlVt/view?usp=sharing)
-![Pinout Diagram](https://drive.google.com/uc?export=view&id=1OPlse6kRpduqb8w6OBmW3Q2100KdvlVt/view?usp=sharing)
+![Pinout Diagram](https://drive.google.com/uc?export=view&id=1OPlse6kRpduqb8w6OBmW3Q2100KdvlVt)
 *Fig 1. System pinout and connections diagram*
 
 ## Installation
