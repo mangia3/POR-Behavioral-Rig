@@ -57,8 +57,7 @@ Safety Features
 - Resonance-reducing movement algorithms
 
 Documentation
-Full documentation available in project files and:
-[Google Drive Folder]([url](https://drive.google.com/drive/folders/1eI-NW90LWxW4njzedlkQXaeBQSi5hJCD?usp=sharing))
+Full documentation available in project files and [Google Drive Folder](https://drive.google.com/drive/folders/1eI-NW90LWxW4njzedlkQXaeBQSi5hJCD?usp=sharing).
 
 Troubleshooting
 - Motor not moving:
